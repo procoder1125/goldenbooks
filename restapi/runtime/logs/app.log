@@ -1,0 +1,1957 @@
+2021-04-02 20:19:45 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "user/index". in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php:543
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php:116
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2021-04-02 20:19:44 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'e16e6bd8-eff6-484d-8173-b340a18c55bd'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54604'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617383983.993
+    'REQUEST_TIME' => 1617383983
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:21:24 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "user/index". in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php:543
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php:116
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2021-04-02 20:21:23 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '80d542242a11e041d0f4b58c143f3af4039919c8960f350d39dc88f8ddc56384a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"3V8RFFqw9-ckbiJBiQyuOc5gwYZUFXVT\",2592000]\";}'
+    '_identity-frontend' => '8e43fa929c64aed413827a31e870968bdf6688046201ce53fa17618b93b57e3ea:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[9,\"gzeJ6rbFBVn93gTAJ8akSMlA_KG3s9H-\",2592000]\";}'
+    'advanced-frontend' => 'ordf3endvp6p7klhbug12iramp9quoue'
+    '_csrf-frontend' => 'a9389f9cb65d20668af5926c910e2fd9a568c3a7f54410372acc54099665c311a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"R3QaWCTUuPv3Y7oOfu4w4MrLfeY-JQMW\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_identity-backend=80d542242a11e041d0f4b58c143f3af4039919c8960f350d39dc88f8ddc56384a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%223V8RFFqw9-ckbiJBiQyuOc5gwYZUFXVT%22%2C2592000%5D%22%3B%7D; _identity-frontend=8e43fa929c64aed413827a31e870968bdf6688046201ce53fa17618b93b57e3ea%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B9%2C%22gzeJ6rbFBVn93gTAJ8akSMlA_KG3s9H-%22%2C2592000%5D%22%3B%7D; advanced-frontend=ordf3endvp6p7klhbug12iramp9quoue; _csrf-frontend=a9389f9cb65d20668af5926c910e2fd9a568c3a7f54410372acc54099665c311a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22R3QaWCTUuPv3Y7oOfu4w4MrLfeY-JQMW%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54677'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1617384083.142
+    'REQUEST_TIME' => 1617384083
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:23:48 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "user/index". in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php:543
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php:116
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2021-04-02 20:23:47 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '0b8c7615-bade-4323-ae40-3ea782746633'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54735'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617384225.081
+    'REQUEST_TIME' => 1617384225
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:24:30 [127.0.0.1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: restapi\models\User::role in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Component.php:155
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\db\BaseActiveRecord.php(298): yii\base\Component->__get('role')
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\ArrayableTrait.php(126): yii\db\BaseActiveRecord->__get('role')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(300): yii\base\Model->toArray(Array, Array)
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(196): yii\rest\Serializer->serializeModels(Array)
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#10 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2021-04-02 20:24:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '67286947-28e2-4f58-a306-66ebd2bf6d08'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54735'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617384250.323
+    'REQUEST_TIME' => 1617384250
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:26:19 [127.0.0.1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: restapi\models\User::role in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Component.php:155
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\db\BaseActiveRecord.php(298): yii\base\Component->__get('role')
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\ArrayableTrait.php(126): yii\db\BaseActiveRecord->__get('role')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(300): yii\base\Model->toArray(Array, Array)
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(196): yii\rest\Serializer->serializeModels(Array)
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#10 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2021-04-02 20:26:18 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '80d542242a11e041d0f4b58c143f3af4039919c8960f350d39dc88f8ddc56384a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"3V8RFFqw9-ckbiJBiQyuOc5gwYZUFXVT\",2592000]\";}'
+    '_identity-frontend' => '8e43fa929c64aed413827a31e870968bdf6688046201ce53fa17618b93b57e3ea:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[9,\"gzeJ6rbFBVn93gTAJ8akSMlA_KG3s9H-\",2592000]\";}'
+    'advanced-frontend' => 'ordf3endvp6p7klhbug12iramp9quoue'
+    '_csrf-frontend' => 'a9389f9cb65d20668af5926c910e2fd9a568c3a7f54410372acc54099665c311a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"R3QaWCTUuPv3Y7oOfu4w4MrLfeY-JQMW\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_identity-backend=80d542242a11e041d0f4b58c143f3af4039919c8960f350d39dc88f8ddc56384a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%223V8RFFqw9-ckbiJBiQyuOc5gwYZUFXVT%22%2C2592000%5D%22%3B%7D; _identity-frontend=8e43fa929c64aed413827a31e870968bdf6688046201ce53fa17618b93b57e3ea%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B9%2C%22gzeJ6rbFBVn93gTAJ8akSMlA_KG3s9H-%22%2C2592000%5D%22%3B%7D; advanced-frontend=ordf3endvp6p7klhbug12iramp9quoue; _csrf-frontend=a9389f9cb65d20668af5926c910e2fd9a568c3a7f54410372acc54099665c311a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22R3QaWCTUuPv3Y7oOfu4w4MrLfeY-JQMW%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54753'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1617384377.789
+    'REQUEST_TIME' => 1617384377
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:34:14 [127.0.0.1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: restapi\models\User::role in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Component.php:155
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\db\BaseActiveRecord.php(298): yii\base\Component->__get('role')
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\ArrayableTrait.php(126): yii\db\BaseActiveRecord->__get('role')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(300): yii\base\Model->toArray(Array, Array)
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(196): yii\rest\Serializer->serializeModels(Array)
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#10 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2021-04-02 20:34:08 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '445a2078-2add-42c5-ae11-4cedb88fe702'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '54838'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617384848.011
+    'REQUEST_TIME' => 1617384848
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:42:05 [127.0.0.1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Setting unknown property: yii\web\UrlRule::0 in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\BaseObject.php:163
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\BaseYii.php(558): yii\base\BaseObject->__set('0', 'user')
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\BaseObject.php(107): yii\BaseYii::configure(Object(yii\web\UrlRule), Array)
+#2 [internal function]: yii\base\BaseObject->__construct(Array)
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\di\Container.php(420): ReflectionClass->newInstanceArgs(Array)
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\di\Container.php(171): yii\di\Container->build('yii\\web\\UrlRule', Array, Array)
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\BaseYii.php(365): yii\di\Container->get('yii\\web\\UrlRule', Array, Array)
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\UrlManager.php(253): yii\BaseYii::createObject(Array)
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\UrlManager.php(198): yii\web\UrlManager->buildRules(Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\web\UrlManager->init()
+#9 [internal function]: yii\base\BaseObject->__construct(Array)
+#10 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\di\Container.php(420): ReflectionClass->newInstanceArgs(Array)
+#11 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\di\Container.php(171): yii\di\Container->build('yii\\web\\UrlMana...', Array, Array)
+#12 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\BaseYii.php(365): yii\di\Container->get('yii\\web\\UrlMana...', Array, Array)
+#13 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\di\ServiceLocator.php(137): yii\BaseYii::createObject(Array)
+#14 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(748): yii\di\ServiceLocator->get('urlManager', true)
+#15 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(577): yii\base\Module->get('urlManager')
+#16 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2-debug\src\Module.php(275): yii\base\Application->getUrlManager()
+#17 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(333): yii\debug\Module->bootstrap(Object(yii\web\Application))
+#18 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(70): yii\base\Application->bootstrap()
+#19 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(279): yii\web\Application->bootstrap()
+#20 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\base\Application->init()
+#21 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(212): yii\base\BaseObject->__construct(Array)
+#22 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->__construct(Array)
+#23 {main}
+2021-04-02 20:42:03 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'fc4e00a4-3927-4bca-b66e-cb89a8bed5ae'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '51569'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617385320.651
+    'REQUEST_TIME' => 1617385320
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 20:51:17 [127.0.0.1][-][-][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: restapi\models\User::role in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Component.php:155
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\db\BaseActiveRecord.php(298): yii\base\Component->__get('role')
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\ArrayableTrait.php(126): yii\db\BaseActiveRecord->__get('role')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(300): yii\base\Model->toArray(Array, Array)
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(196): yii\rest\Serializer->serializeModels(Array)
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user/index', Array)
+#10 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2021-04-02 20:51:16 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '9109b386-8d1c-471e-aaf4-2eac4d68b682'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '51610'
+    'REDIRECT_URL' => '/restapi/web/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/users'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617385876.122
+    'REQUEST_TIME' => 1617385876
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:12:02 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:12:02 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'a3a6d8f1-0a17-40dd-b745-810e9a701d2e'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49188'
+    'REDIRECT_URL' => '/restapi/web/user-profile'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profile'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387122.078
+    'REQUEST_TIME' => 1617387122
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:13:57 [127.0.0.1][-][-][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'restapi\controllers\UserProfileController' in file: D:\openserver\OpenServer\domains\goldenbooks/restapi/controllers/UserProfileController.php. Namespace missing? in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('restapi\\control...')
+#1 [internal function]: spl_autoload_call('restapi\\control...')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(643): class_exists('restapi\\control...')
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(602): yii\base\Module->createControllerByID('user-profile')
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Module->createController('index')
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2021-04-02 21:13:57 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '90cc8a41-b4af-4630-a835-d59f6f6b80ca'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49188'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387237.497
+    'REQUEST_TIME' => 1617387237
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:14:28 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:14:27 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'c6ac8073-c9fc-4b59-82f0-4dbb65354bd6'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49236'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387267.896
+    'REQUEST_TIME' => 1617387267
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:14:37 [127.0.0.1][-][-][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'restapi\controllers\UserprofileController' in file: D:\openserver\OpenServer\domains\goldenbooks/restapi/controllers/UserprofileController.php. Namespace missing? in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('restapi\\control...')
+#1 [internal function]: spl_autoload_call('restapi\\control...')
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(643): class_exists('restapi\\control...')
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(602): yii\base\Module->createControllerByID('userprofile')
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Module->createController('index')
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('userprofile/ind...', Array)
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2021-04-02 21:14:37 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '27701712-237f-4033-ab9e-f099ca2e1b93'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49236'
+    'REDIRECT_URL' => '/restapi/web/userprofiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userprofiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387277.647
+    'REQUEST_TIME' => 1617387277
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:15:03 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:15:02 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '3b9269ba-1aec-43e2-8c15-31edaf8f8db0'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userprofiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userprofiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387302.781
+    'REQUEST_TIME' => 1617387302
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:15:13 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:15:13 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '57337746-eb1b-4ba5-ad10-ac58d315bf59'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userprofile'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userprofile'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387313.3
+    'REQUEST_TIME' => 1617387313
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:15:22 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:15:22 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '7aa00fad-493a-43b8-9604-8ec6e94a8c93'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userProfile'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userProfile'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387322.464
+    'REQUEST_TIME' => 1617387322
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:15:25 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "userProfile/index". in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php:543
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('userProfile/ind...', Array)
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php:116
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2021-04-02 21:15:25 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'f86f5075-fad9-4b9d-92ed-ecc156655f44'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userProfiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userProfiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387325.414
+    'REQUEST_TIME' => 1617387325
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:15:59 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:15:59 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '1dedb3f2-75dd-4ea8-a116-b4229b9f90af'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userProfiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userProfiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387358.945
+    'REQUEST_TIME' => 1617387358
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:16:06 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:16:05 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '09600e19-ba5e-4dc3-8613-0f2ede329829'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387365.911
+    'REQUEST_TIME' => 1617387365
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:16:42 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:16:42 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '563e5910-9898-4e17-872f-f8381824b56d'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387402.618
+    'REQUEST_TIME' => 1617387402
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:17:03 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:17:03 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'f45a791a-a608-4eed-ba0f-71abf4a02121'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387423.483
+    'REQUEST_TIME' => 1617387423
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:17:08 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "userprofile/index". in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php:543
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('userprofile/ind...', Array)
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php:116
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2021-04-02 21:17:08 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'e8e6020e-34af-4fdf-8b3c-0d64e0775bab'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userprofiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userprofiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387428.315
+    'REQUEST_TIME' => 1617387428
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:17:31 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:17:30 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '801e6f5e-f3e3-4fa5-bd60-9f198a99f5fa'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userProfiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userProfiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387450.723
+    'REQUEST_TIME' => 1617387450
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:17:34 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:17:34 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'e1065319-d9c5-43f5-b95e-b991269205ab'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/userProfile'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/userProfile'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387454.25
+    'REQUEST_TIME' => 1617387454
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:19:09 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\web\NotFoundHttpException: Page not found. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Request.php:293
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(83): yii\web\Request->resolve()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2021-04-02 21:19:08 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '5d9243c0-0074-42a9-b688-26c72d3da672'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49240'
+    'REDIRECT_URL' => '/restapi/web/user-profile'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profile'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617387548.864
+    'REQUEST_TIME' => 1617387548
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:34:48 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 21:34:47 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '253d2a62-d3a2-409e-9062-9bffc4086027'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49751'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617388487.659
+    'REQUEST_TIME' => 1617388487
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 21:37:04 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 21:37:03 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '4bc7c439-6a01-4667-b88b-92dbc1d4c6c2'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '49763'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617388623.694
+    'REQUEST_TIME' => 1617388623
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 22:06:35 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 22:06:34 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'c7ba1c38-1753-408d-8945-5f25f96b0ce6'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '59978'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617390394.52
+    'REQUEST_TIME' => 1617390394
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 22:06:39 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 22:06:39 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '64bc5f76-c0f7-48fa-a17e-cdfb279c2ca6'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '59981'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617390399.474
+    'REQUEST_TIME' => 1617390399
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 22:07:37 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 22:07:37 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => 'eda1fd6f-3dec-4e53-b899-3e2c67c4a5d9'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '59984'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617390457.097
+    'REQUEST_TIME' => 1617390457
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 22:12:07 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 22:12:06 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '615b1247-e88f-4eb0-9825-8da25b07cd8c'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '60007'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617390726.658
+    'REQUEST_TIME' => 1617390726
+    'argv' => []
+    'argc' => 0
+]
+2021-04-02 22:13:09 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "query" property must be an instance of a class that implements the QueryInterface e.g. yii\db\Query or its subclasses. in D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\ActiveDataProvider.php:101
+Stack trace:
+#0 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(101): yii\data\ActiveDataProvider->prepareModels()
+#1 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\data\BaseDataProvider.php(114): yii\data\BaseDataProvider->prepare()
+#2 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(194): yii\data\BaseDataProvider->getModels()
+#3 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Serializer.php(154): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#4 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(99): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#5 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\rest\Controller.php(77): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#6 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Controller.php(183): yii\rest\Controller->afterAction(Object(yii\base\InlineAction), Object(yii\data\ActiveDataProvider))
+#7 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Module.php(534): yii\base\Controller->runAction('index', Array)
+#8 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\web\Application.php(104): yii\base\Module->runAction('user-profile/in...', Array)
+#9 D:\openserver\OpenServer\domains\goldenbooks\vendor\yiisoft\yii2\base\Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\openserver\OpenServer\domains\goldenbooks\restapi\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2021-04-02 22:13:07 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'REDIRECT_REDIRECT_STATUS' => '200'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.26.10'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_POSTMAN_TOKEN' => '0d055be8-e42b-4d47-83f1-59818341c479'
+    'HTTP_HOST' => 'goldenbooks'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '30'
+    'PATH' => 'd:\\openserver\\openserver\\modules\\php\\PHP_7.2\\ext;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear;d:\\openserver\\openserver\\modules\\php\\PHP_7.2\\pear\\bin;d:\\openserver\\openserver\\modules\\php\\PHP_7.2;d:\\openserver\\openserver\\modules\\wget\\bin;d:\\openserver\\openserver\\modules\\database\\MySQL-8.0\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4\\bin;d:\\openserver\\openserver\\modules\\http\\Apache_2.4-PHP_7.2-7.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'goldenbooks'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/openserver/OpenServer/domains/goldenbooks'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/openserver/OpenServer/domains/goldenbooks/restapi/web/index.php'
+    'REMOTE_PORT' => '60015'
+    'REDIRECT_URL' => '/restapi/web/user-profiles'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/api/user-profiles'
+    'SCRIPT_NAME' => '/restapi/web/index.php'
+    'PHP_SELF' => '/restapi/web/index.php'
+    'PHP_AUTH_USER' => '***'
+    'PHP_AUTH_PW' => '***'
+    'REQUEST_TIME_FLOAT' => 1617390787.701
+    'REQUEST_TIME' => 1617390787
+    'argv' => []
+    'argc' => 0
+]
